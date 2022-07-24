@@ -14,4 +14,4 @@ ua：Mozilla/5.0 (compatible; Arkarchive/1.14; +https://www.arkarchive.org)
 
 发现速度起飞问题，已限速10m/s
 
-发现因为限速导致的反复请求问题，已修改成单线程
+发现因为限速/多线程下载导致的反复请求问题，已修改成单线程
