@@ -8,11 +8,9 @@
 
 ua：Mozilla/5.0 (compatible; Arkarchive/6.66; +https://www.arkarchive.org)
 
-目前的服务器ip：联通宽带IP
+目前的ip：辽宁联通家宽IP
 
-~~双线程下载~~，尽量不占用您的服务器资源
-
-一小时下载量会控制在10G以内
+尽量不占用您的服务器资源，一小时下载量会控制在10G以内
 
 ## 事件
 
@@ -23,4 +21,12 @@ ua：Mozilla/5.0 (compatible; Arkarchive/6.66; +https://www.arkarchive.org)
 ## 关于
 
 个人维护的档案馆，目前因为版权等原因无法开放，但是确实是备份了的
+
+目前使用光盘（DVD）备份方式（本来想用BD来着但是BD坏盘率高）
+
+onedrive再也不敢白嫖力，感谢微软不杀之恩>ᯅ<（差点就数据火葬场了）
+
+## 联系我
+
+
 
