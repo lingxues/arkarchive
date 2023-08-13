@@ -8,7 +8,7 @@
 
 ua：Mozilla/5.0 (compatible; Arkarchive/6.66; +https://www.arkarchive.org)
 
-目前的ip：辽宁联通家宽IP
+目前的ip：辽宁联通宽带
 
 尽量不占用您的服务器资源，一小时下载量会控制在10G以内
 
@@ -28,7 +28,7 @@ ua：Mozilla/5.0 (compatible; Arkarchive/6.66; +https://www.arkarchive.org)
 
 目前使用网盘+部分本地备份方式（本来想用BD来着但是BD坏盘率高）
 
-onedrive再也不敢白嫖力，a1,a1p明年就要寄了（差点就数据火葬场了）
+onedrive再也不敢白嫖力 a1 a1p明年就要寄了（差点就数据火葬场了）
 
 ## 联系我
 
