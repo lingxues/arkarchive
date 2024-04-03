@@ -1,5 +1,9 @@
 # arkarchive
 
+**原域名（archive.org）到期今后与此项目完全无关**
+
+**域名永远不会续费了，也许会转到archive.soraru.org**
+
 ## 介绍
 
 **这个计划已经似了**
@@ -10,7 +14,7 @@
 
 ua：Mozilla/5.0 (compatible; Arkarchive/6.66; +https://www.arkarchive.org)
 
-目前的ip：辽宁联通宽带
+目前的ip：已停止
 
 尽量不占用您的服务器资源，一小时下载量会控制在10G以内
 
@@ -22,9 +26,9 @@ ua：Mozilla/5.0 (compatible; Arkarchive/6.66; +https://www.arkarchive.org)
 
 2022-11-16 google drive团队盘不能用了
 
-2023-08-02 onedrivea1,a1p明年就要寄了，正在寻找新的网盘
+2023-08-02 onedrive a1,a1p明年就要寄了，正在寻找新的网盘
 
-2024-02-10 哈哈，全局炸了，教师许可证没了，学生许可证限制100g了
+2024-02-10 哈哈，a1p全局炸了，a1教师许可证没了学生许可证限制100g了
 
 ## 关于
 
